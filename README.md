@@ -1,1 +1,1 @@
-# features-errors-roadmap
+# Repo to handle features, errors, releases and roadmap
